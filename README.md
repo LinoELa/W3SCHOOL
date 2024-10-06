@@ -1,1 +1,1 @@
-# W3Schools_Python
+# W3SCHOOLS
